@@ -2,8 +2,8 @@
 Written by Yaakov Shahak on March 2020
 
 ### Architecture
-MVVM + LiveData + Paging + Room
-Dependency Injection - Using [Koin](https://insert-koin.io/) 
+* MVVM + LiveData + Paging + Room
+* Dependency Injection - Using [Koin](https://insert-koin.io/) 
 
 ### Suggested improvements
 * add Unit Test and Instrumented Test
